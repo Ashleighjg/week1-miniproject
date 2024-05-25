@@ -1,0 +1,89 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+
+header {
+    color: lightgrey;
+    background-color: purple;
+    border-bottom: #000;
+    position: fixed;
+    display: inline
+    
+
+}
+
+
+footer {
+    color: lightgray;
+    background-color: purple;
+    text-align: center;
+   
+}
+
+
+
+ nav {
+        
+        display: inline;
+        position: absolute ;
+        left: 0px;
+        font-size: 80%;
+        font-weight: bold;
+        padding: 0 3px;
+        width: 200px;
+        height: 50px;
+
+      }
+
+
+
+
+
+
+
+.section1 {
+    color: black;
+    background-color: white;
+    text-align: center;
+;
+
+}
+
+
+.section2 {
+    background-color: darkgoldenrod;
+    display: block;
+    text-align: center;
+
+
+    
+
+}
+
+
+.picture { 
+    height: 200px;
+    width: 200px;
+    display: inline;
+    align-self: center;
+    top: 200px;
+}
+
+
+label {
+    display: block;
+
+  }
+
+
+#nameinput {display: inline;}
+
+#emailinput {display: inline;}
+
+form {
+    display: inline;
+}
+  
